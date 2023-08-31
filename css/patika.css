@@ -77,8 +77,11 @@ body {
 
 .footer {
     background-color: grey;
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
     display: flex;
-    margin-top: 80px;
+    margin-top: 1500px;
     margin-bottom: 80px;
     text-align: center;
     width: 100%;
