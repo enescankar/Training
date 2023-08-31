@@ -44,3 +44,46 @@ body {
     font-weight: bold;
     font-size: 24px;
 }
+
+.about-me {
+    background-color: white;
+    float: right;
+    width: 33%;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.popular-post {
+    background-color: white;
+    float: right;
+    width: 33%;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.follow-me {
+    background-color: white;
+    float: right;
+    width: 33%;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.footer {
+    background-color: grey;
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
