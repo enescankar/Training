@@ -1,0 +1,46 @@
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    background-color: #E7E9EB 
+}
+
+.header {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 0px;
+    
+}
+
+.section1 {
+    background-color: white;
+    float: left;
+    width: 960px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.naber {
+    background-color: #353839;
+    padding-left: 24px;
+    color: white;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+.naber:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.titleheading {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+}
